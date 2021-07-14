@@ -1,0 +1,12 @@
+{
+    "tipo_notificacion":"RC",
+    "fecha_envio":"2021-04-23T18:25:43.511Z",
+    "origen":"Payment",
+    "estado":"OK",
+    "canal":"Payment",
+    "evento":"RecargaTEST",
+    "monto":"100.00",
+    "fec_evento":"2021-04-23T18:25:43.511Z",
+    "num_abonado":"40867074",
+    "pais":"GT"
+}

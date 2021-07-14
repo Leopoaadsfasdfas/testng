@@ -1,0 +1,15 @@
+Iteración: 227
+URL: http://172.20.190.51:8502/wsincentivosmc/wsincentivos/api/notificacion
+
+{
+    "estado": "Ok",
+    "det_estado": "Operación exitosa"
+}
+TPS: 84 ms 
+Prueba exitosa 
+Status Code: 200
+
+
+
+ Passed: 200
+ Failed: 0
